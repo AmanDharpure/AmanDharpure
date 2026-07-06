@@ -227,12 +227,10 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 ---
-
-# Contribution Activity
 
 # Contribution Activity
 
