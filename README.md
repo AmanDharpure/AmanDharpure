@@ -222,14 +222,6 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 ![Aman's GitHub Streak](https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true)
 
 </div>
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
 ---
 
 # Contribution Activity
