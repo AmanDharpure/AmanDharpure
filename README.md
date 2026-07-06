@@ -218,31 +218,32 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanDharpure&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDharpure&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanDharpure&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDharpure&layout=compact&theme=tokyonight"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDharpure&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
 # GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
-
 ---
+
+# Contribution Activity
 
 # Contribution Activity
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night)](https://github.com/AmanDharpure)
 
 </div>
 
