@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Aman%20Dharpure&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -260,7 +260,6 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 # Current Focus
 
-```yaml
 learning:
   - Kubernetes
   - Platform Engineering
@@ -282,10 +281,7 @@ open_to:
   - DevOps Engineer
   - Platform Engineer
   - Site Reliability Engineer
-````
 
-
----
 
 # Connect
 
