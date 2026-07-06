@@ -21,7 +21,7 @@
 <a href="mailto:amandharpure6@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/AmanDharpure">
 <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -218,13 +218,12 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanDharpure&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDharpure&theme=tokyonight"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDharpure&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -233,7 +232,7 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&row=1)
 
 </div>
 
@@ -243,7 +242,7 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night)
 
 </div>
 
@@ -287,21 +286,24 @@ open_to:
 
 ---
 
+```
+
+
+---
+
 # Connect
 
-* Gmail: [amandharpure6@gmail.com](mailto:amandharpure6@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/aman-dharpure-333397324](https://www.linkedin.com/in/aman-dharpure-333397324)
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* Portfolio: [https://portfolio.example.com](https://portfolio.example.com)
+- Gmail: [amandharpure6@gmail.com](mailto:amandharpure6@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/aman-dharpure-333397324
+- GitHub: https://github.com/AmanDharpure
 
 ---
 
 <div align="center">
 
-*"Engineering scalable systems through automation, reliability, and continuous innovation."*
+*"Building reliable, scalable, and secure cloud platforms through engineering excellence."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:6366F1,100:8B5CF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4C1D95,50:6366F1,100:8B5CF6"/>
 
 </div>
-```
 
