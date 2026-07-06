@@ -12,7 +12,7 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Engineer-8B5CF6?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India-4C1D95?style=for-the-badge)
 
-<a href="https://portfolio.example.com">
+<a href="https://github.com/AmanDharpure">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aman-dharpure-333397324">
@@ -25,10 +25,9 @@
 <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8B5CF6)
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=4C1D95)
-
+![](https://komarev.com/ghpvc/?username=AmanDharpure&style=for-the-badge&color=8B5CF6)
+![](https://img.shields.io/github/followers/AmanDharpure?style=for-the-badge&color=6366F1)
+![](https://img.shields.io/github/stars/AmanDharpure?style=for-the-badge&color=4C1D95)
 </div>
 
 ---
