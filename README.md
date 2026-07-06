@@ -284,10 +284,6 @@ open_to:
   - Site Reliability Engineer
 ````
 
----
-
-```
-
 
 ---
 
