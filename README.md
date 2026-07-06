@@ -216,15 +216,10 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 # GitHub Analytics
 
-# GitHub Analytics
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanDharpure&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Aman's GitHub Streak](https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDharpure&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
