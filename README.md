@@ -1,287 +1,169 @@
 
-<div align="center">
+# Aman Dharpure
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Aman%20Dharpure&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+> Cloud & DevOps Engineer \| AWS \| Kubernetes \| Terraform \| Jenkins
+> \| DevSecOps
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Engineer;DevSecOps+Enthusiast;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+Enterprise+Cloud+Infrastructure"/>
-
-<br/>
-
-![MCA](https://img.shields.io/badge/MCA-In%20Progress-4C1D95?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Engineer-6366F1?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-8B5CF6?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India-4C1D95?style=for-the-badge)
-
-<a href="https://github.com/AmanDharpure">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aman-dharpure-333397324">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amandharpure6@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AmanDharpure">
-<img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-![](https://komarev.com/ghpvc/?username=AmanDharpure&style=for-the-badge&color=8B5CF6)
-![](https://img.shields.io/github/followers/AmanDharpure?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/AmanDharpure?style=for-the-badge&color=4C1D95)
-</div>
-
----
-
-# About
-
-Cloud & DevOps Engineer pursuing Master of Computer Applications with hands-on experience designing enterprise-grade cloud infrastructure, DevSecOps pipelines, Kubernetes platforms, and Infrastructure as Code solutions.
-
-My engineering philosophy focuses on scalable architecture, automation-first operations, platform reliability, security integration, and production-grade software delivery practices.
-
-### Areas of Expertise
-- Cloud Infrastructure Engineering
-- DevOps & DevSecOps Automation
-- Platform Engineering
-- Kubernetes & Container Orchestration
-- Infrastructure as Code
-- CI/CD Engineering
-- Monitoring & Observability
-- Software Product Engineering
-
-### AI/ML Interest Areas
-- Generative AI Infrastructure
-- MLOps
-- AI Platform Engineering
-- Cloud Native AI Deployments
-
-### Open To
-- Cloud Engineer Roles
-- DevOps Engineer Roles
-- Platform Engineer Roles
-- SRE Positions
-- DevSecOps Opportunities
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css"/>
+```{=html}
+<p align="center">
+```
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Aman%20Dharpure&fontSize=50&fontColor=ffffff"/>`{=html}
+```{=html}
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Engineer;DevSecOps+Enthusiast;Terraform+%7C+Docker+%7C+Kubernetes;Building+Production+Cloud+Infrastructure"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+![Profile
+Views](https://komarev.com/ghpvc/?username=AmanDharpure&style=for-the-badge&color=8B5CF6)
+![Followers](https://img.shields.io/github/followers/AmanDharpure?style=for-the-badge&color=6366F1)
+![Stars](https://img.shields.io/github/stars/AmanDharpure?style=for-the-badge&color=4C1D95)
 
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
+```{=html}
 </p>
+```
+## 🚀 About Me
 
-### Cloud, DevOps & Tooling
+I'm **Aman Dharpure**, an MCA student (2027) passionate about Cloud
+Computing, DevOps, Kubernetes and Platform Engineering.
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,prometheus,grafana,linux"/>
+I build production-style cloud infrastructure on AWS with Infrastructure
+as Code, CI/CD, monitoring, and security best practices.
+
+### 🎯 Currently Learning
+
+-   AWS Architecture
+-   Kubernetes
+-   Platform Engineering
+-   DevSecOps
+-   MLOps Fundamentals
+
+## 🛠 Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,prometheus,grafana,bash,python,mysql,nodejs,react,nextjs"/>`{=html}
+```{=html}
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| AI Infrastructure | Intermediate | Cloud-native AI deployments |
-| MLOps | Intermediate | CI/CD for ML workloads |
-| Data Engineering | Intermediate | Pipeline automation |
-| Cloud AI Services | Intermediate | AWS AI ecosystem |
-| Automation | Advanced | Infrastructure orchestration |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>DevSecOps CI/CD Pipeline – Uber Clone on AWS EKS</b></summary>
-
-Enterprise-grade DevSecOps implementation featuring automated CI/CD, security scanning, Kubernetes deployment, and infrastructure provisioning.
-
-| Category | Details |
-|---|---|
-| Stack | AWS, EKS, Jenkins, Terraform, Docker, Kubernetes |
-| Scale | Multi-stage production pipeline |
-| Performance | Automated deployment workflows |
-| Security | SonarQube, Trivy, OWASP Dependency Check |
-| Impact | End-to-end DevSecOps automation |
-| Repository | [GitHub Repository](https://github.com/) |
-
-Implemented a production-ready DevSecOps pipeline integrating static analysis, vulnerability assessment, container security scanning, automated image deployment, and Kubernetes orchestration on AWS EKS.
-
-</details>
-
-<details>
-<summary><b>AWS Cross-Region VPC Peering</b></summary>
-
-Designed secure inter-region AWS networking architecture connecting Mumbai and Singapore regions.
-
-| Category | Details |
-|---|---|
-| Stack | AWS VPC, EC2, Route Tables |
-| Scale | Multi-region infrastructure |
-| Performance | Low latency private connectivity |
-| Security | Private communication channels |
-| Impact | Enterprise network architecture |
-| Repository | [GitHub Repository](https://github.com/) |
-
-Established private connectivity between AWS regions through VPC peering while maintaining secure communication and optimized routing configurations.
-
-</details>
-
----
-
-# Experience
-
-### Cloud & DevOps Engineer Projects
-**Independent Engineering Portfolio**  
-**2025 – Present**
-
-Building enterprise-grade cloud infrastructure projects focusing on DevOps automation, Kubernetes orchestration, infrastructure provisioning, and cloud-native platform engineering.
-
-#### Scope of Work
-- Designed cloud-native architectures
-- Implemented DevSecOps pipelines
-- Automated infrastructure provisioning
-- Managed Kubernetes deployments
-- Integrated monitoring and observability
-- Performed security assessments
-
-**Skills:** `AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `Linux` `DevSecOps`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|---|---|
-| DevSecOps Engineering | Built complete CI/CD platform on AWS EKS |
-| Cloud Networking | Implemented cross-region AWS networking |
-| Infrastructure Automation | Automated enterprise deployments |
-| Security Engineering | Integrated DevSecOps best practices |
-
----
-
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-red?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
----
-
-# GitHub Analytics
-
-
-<div align="center">
-
-![Aman's GitHub Streak](https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true)
-
-</div>
-
-
-# Contribution Activity
-
-<div align="center">
-
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night)](https://github.com/AmanDharpure)
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# Current Focus
-
-learning:
-  - Kubernetes
-  - Platform Engineering
-  - AWS Architecture
-  - DevSecOps
-
-building:
-  - Enterprise CI/CD Platforms
-  - Cloud Native Applications
-  - Kubernetes Infrastructure
-
-exploring:
-  - MLOps
-  - AI Infrastructure
-  - Observability
-
-open_to:
-  - Cloud Engineer
-  - DevOps Engineer
-  - Platform Engineer
-  - Site Reliability Engineer
-
-
-# Connect
-
-- Gmail: [amandharpure6@gmail.com](mailto:amandharpure6@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/aman-dharpure-333397324
-- GitHub: https://github.com/AmanDharpure
-
----
-
-<div align="center">
-
-*"Building reliable, scalable, and secure cloud platforms through engineering excellence."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4C1D95,50:6366F1,100:8B5CF6"/>
-
-</div>
-
+```
+## ☁ Featured Projects
+
+### 🚀 DevSecOps Uber Clone on AWS EKS
+
+-   Jenkins CI/CD
+-   SonarQube
+-   Trivy
+-   OWASP Dependency Check
+-   Docker
+-   Amazon EKS
+-   Terraform
+
+### 🌐 Enterprise Static CDN
+
+-   Amazon S3
+-   CloudFront
+-   Origin Access Control
+-   Terraform
+-   GitHub Actions
+
+### 🔗 AWS Cross Region VPC Peering
+
+-   Mumbai ↔ Singapore
+-   EC2
+-   VPC
+-   Route Tables
+
+### 📨 Event Driven Order Processing
+
+-   SNS
+-   SQS
+-   Lambda
+-   Dead Letter Queue
+
+## 📊 GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanDharpure&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDharpure&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+## 🏆 GitHub Trophies
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=AmanDharpure&theme=tokyonight&no-frame=true&column=4"/>`{=html}
+```{=html}
+</p>
+```
+## 📈 Activity Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
+## 🐍 Contribution Snake
+
+```{=html}
+<p align="center">
+```
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanDharpure/AmanDharpure/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanDharpure/AmanDharpure/output/github-contribution-grid-snake.svg"/>`{=html}
+`<img alt="snake" src="https://raw.githubusercontent.com/AmanDharpure/AmanDharpure/output/github-contribution-grid-snake.svg"/>`{=html}
+`</picture>`{=html}
+```{=html}
+</p>
+```
+## 📜 Certifications
+
+-   AWS Academy Cloud Foundations
+-   IBM Cloud Native, DevOps, Agile & NoSQL
+-   Red Hat Ansible Automation Practitioner
+-   Oracle Learning
+-   Cisco Networking
+
+## 🤝 Connect
+
+-   📧 amandharpure6@gmail.com
+-   💼 https://www.linkedin.com/in/aman-dharpure-333397324
+-   💻 https://github.com/AmanDharpure
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<i>`{=html}Building reliable, scalable and secure cloud
+platforms.`</i>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4C1D95,50:6366F1,100:8B5CF6"/>`{=html}
+```{=html}
+</p>
+```
