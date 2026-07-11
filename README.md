@@ -67,13 +67,13 @@ My engineering philosophy focuses on scalable architecture, automation-first ope
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,shell scripting"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,"/>
 </p>
 
 ### Backend & Databases
