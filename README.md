@@ -102,11 +102,25 @@ My engineering philosophy focuses on scalable architecture, automation-first ope
 
 # Featured Projects
 
+# Featured Projects
 <details>
 <summary><b>DevSecOps CI/CD Pipeline – Uber Clone on AWS EKS</b></summary>
-
 Enterprise-grade DevSecOps implementation featuring automated CI/CD, security scanning, Kubernetes deployment, and infrastructure provisioning.
+</details>
 
+<details>
+<summary><b>AWS Multi-Region Disaster Recovery Architecture</b></summary>
+Production-grade disaster recovery solution built on AWS using Terraform, deploying identical infrastructure across two regions (us-east-1 primary, us-west-2 standby) with automatic failover. Uses Route53 health checks, Auto Scaling, Application Load Balancer, RDS cross-region replication, S3 cross-region backups, CloudWatch monitoring, and SNS alerts — all provisioned as Infrastructure as Code.
+
+🔗 <a href="https://github.com/AmanDharpure/AWS-Multi-Region-DR">Repository</a>
+</details>
+
+<details>
+<summary><b>Enterprise Static CDN on AWS using Terraform</b></summary>
+Secure, production-style static website deployment on AWS using Terraform. Provisions a private S3 bucket for hosting, a CloudFront distribution for global content delivery, and Origin Access Control (OAC) so content is reachable only through CloudFront — with server-side encryption, bucket versioning, and public access fully blocked.
+
+🔗 <a href="https://github.com/AmanDharpure/enterprise-static-cdn-terraform">Repository</a>
+</details>
 | Category | Details |
 |---|---|
 | Stack | AWS, EKS, Jenkins, Terraform, Docker, Kubernetes |
