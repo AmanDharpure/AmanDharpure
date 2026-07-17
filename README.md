@@ -214,14 +214,11 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 ---
 
 # GitHub Analytics
-
-
 <div align="center">
 
-![Aman's GitHub Streak](https://streak-stats.demolab.com?user=AmanDharpure&theme=tokyonight&hide_border=true)
+![Aman's GitHub Streak](https://streak-stats.demolab.com/?user=AmanDharpure&theme=tokyonight&hide_border=true)
 
 </div>
-
 
 # Contribution Activity
 
