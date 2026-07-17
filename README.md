@@ -224,9 +224,7 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 
 <div align="center">
 
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night)](https://github.com/AmanDharpure)
-
-</div>
+![Aman's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AmanDharpure&theme=tokyonight&hide_border=true)
 
 ---
 
