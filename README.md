@@ -172,22 +172,12 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 ---
 
 # Certifications
-
 ### AWS
-
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-red?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
-
+### Red Hat
+![RedHat](https://img.shields.io/badge/Red%20Hat-RHEL-EE0000?style=for-the-badge&logo=redhat)
 ### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
