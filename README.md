@@ -101,8 +101,6 @@ My engineering philosophy focuses on scalable architecture, automation-first ope
 ---
 
 # Featured Projects
-
-# Featured Projects
 <details>
 <summary><b>DevSecOps CI/CD Pipeline – Uber Clone on AWS EKS</b></summary>
 Enterprise-grade DevSecOps implementation featuring automated CI/CD, security scanning, Kubernetes deployment, and infrastructure provisioning.
@@ -110,48 +108,17 @@ Enterprise-grade DevSecOps implementation featuring automated CI/CD, security sc
 
 <details>
 <summary><b>AWS Multi-Region Disaster Recovery Architecture</b></summary>
-Production-grade disaster recovery solution built on AWS using Terraform, deploying identical infrastructure across two regions (us-east-1 primary, us-west-2 standby) with automatic failover. Uses Route53 health checks, Auto Scaling, Application Load Balancer, RDS cross-region replication, S3 cross-region backups, CloudWatch monitoring, and SNS alerts — all provisioned as Infrastructure as Code.
+Production-grade disaster recovery solution on AWS using Terraform, with automatic failover between two regions via Route53, Auto Scaling, and RDS replication.
 
 🔗 <a href="https://github.com/AmanDharpure/AWS-Multi-Region-DR">Repository</a>
 </details>
 
 <details>
 <summary><b>Enterprise Static CDN on AWS using Terraform</b></summary>
-Secure, production-style static website deployment on AWS using Terraform. Provisions a private S3 bucket for hosting, a CloudFront distribution for global content delivery, and Origin Access Control (OAC) so content is reachable only through CloudFront — with server-side encryption, bucket versioning, and public access fully blocked.
+Secure static website hosting on AWS using S3, CloudFront, and Origin Access Control, fully provisioned with Terraform.
 
 🔗 <a href="https://github.com/AmanDharpure/enterprise-static-cdn-terraform">Repository</a>
 </details>
-| Category | Details |
-|---|---|
-| Stack | AWS, EKS, Jenkins, Terraform, Docker, Kubernetes |
-| Scale | Multi-stage production pipeline |
-| Performance | Automated deployment workflows |
-| Security | SonarQube, Trivy, OWASP Dependency Check |
-| Impact | End-to-end DevSecOps automation |
-| Repository | [GitHub Repository](https://github.com/) |
-
-Implemented a production-ready DevSecOps pipeline integrating static analysis, vulnerability assessment, container security scanning, automated image deployment, and Kubernetes orchestration on AWS EKS.
-
-</details>
-
-<details>
-<summary><b>AWS Cross-Region VPC Peering</b></summary>
-
-Designed secure inter-region AWS networking architecture connecting Mumbai and Singapore regions.
-
-| Category | Details |
-|---|---|
-| Stack | AWS VPC, EC2, Route Tables |
-| Scale | Multi-region infrastructure |
-| Performance | Low latency private connectivity |
-| Security | Private communication channels |
-| Impact | Enterprise network architecture |
-| Repository | [GitHub Repository](https://github.com/) |
-
-Established private connectivity between AWS regions through VPC peering while maintaining secure communication and optimized routing configurations.
-
-</details>
-
 ---
 
 # Experience
