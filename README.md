@@ -104,6 +104,8 @@ My engineering philosophy focuses on scalable architecture, automation-first ope
 <details>
 <summary><b>DevSecOps CI/CD Pipeline – Uber Clone on AWS EKS</b></summary>
 Enterprise-grade DevSecOps implementation featuring automated CI/CD, security scanning, Kubernetes deployment, and infrastructure provisioning.
+
+🔗 <a href="https://github.com/AmanDharpure/DevSecOps-Uber-Clone-EKS">Repository</a>
 </details>
 
 <details>
@@ -119,7 +121,6 @@ Secure static website hosting on AWS using S3, CloudFront, and Origin Access Con
 
 🔗 <a href="https://github.com/AmanDharpure/enterprise-static-cdn-terraform">Repository</a>
 </details>
----
 
 # Experience
 
