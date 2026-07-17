@@ -221,13 +221,13 @@ Building enterprise-grade cloud infrastructure projects focusing on DevOps autom
 </div>
 
 # Contribution Activity
-
 <div align="center">
 
-![Aman's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AmanDharpure&theme=tokyonight&hide_border=true)
+![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanDharpure&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
-
 #  Contribution Snake
 
 <div align="center">
