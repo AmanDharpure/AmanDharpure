@@ -90,13 +90,11 @@ My engineering philosophy focuses on scalable architecture, automation-first ope
 
 ---
 
-# AI / ML Expertise
-
+# Cloud & DevOps Expertise
 | Domain | Proficiency | Details |
 |--------|------------|---------|
 | AI Infrastructure | Intermediate | Cloud-native AI deployments |
 | MLOps | Intermediate | CI/CD for ML workloads |
-| Data Engineering | Intermediate | Pipeline automation |
 | Cloud AI Services | Intermediate | AWS AI ecosystem |
 | Automation | Advanced | Infrastructure orchestration |
 
